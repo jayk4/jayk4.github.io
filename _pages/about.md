@@ -17,4 +17,4 @@ Jaesuk Kwon received Ph.D. in Physics from SUNY at Buffalo on year 2013. And he 
 
 For more info
 ------
-More info about Academic works and achievements can be found in [google scholar](https://scholar.google.com/citations?user=3UHrJ7oAAAAJ&hl=en). Also, [COINFLIP](https://coinflipscomputing.org/) and [THz spintronics with AFM ()]( https://sciences.ucf.edu/physics/afmspin) might also be helpful.
+More info about Academic works and achievements can be found in [google scholar](https://scholar.google.com/citations?user=3UHrJ7oAAAAJ&hl=en). Also, [COINFLIP](https://coinflipscomputing.org/) and [THz spintronics with AFM (MURI project)]( https://sciences.ucf.edu/physics/afmspin) might also be helpful.
