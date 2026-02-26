@@ -7,19 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Jaesuk Kwon is previously Postdoctoral researcher in Electical and Computer Engineering at The University of Texas at Austin. Most focused research is to develope an commercial ready nano-device with emerging technology, such spintronics. 
+Jaesuk Kwon is previously Postdoctoral researcher in Electical and Computer Engineering at The University of Texas at Austin. Most focused research is to develope an commercial ready nano-device with emerging technology. Recent research efforts has emphasized on the machine learning (neural network) tests associated with matrix-vector multiplication and statistical distribution of probablity bits created by magnetic tunnel junction device. Also, deeply looking into the possible usage for spintronics device on neuromorphic computing.   
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ You can follow [INClab](https://utinclab.com/) right now, who we are, what we are doing, what are the achievements, with no worry!
 
-New Spintronics
-======
-Like 
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+# BIO
+# ======
+BIO
+------
+Jaesuk Kwon received Ph.D. in Physics from SUNY at Buffalo on year 2013. And he had worked on postdoc in ECE, University of Texas as Austin from 2021-2024. Prior to UT Austin, he completed his postdoc carriers in University of Central Florida from 2019-2021. Additionally, he worked on Nanyang Technological University in Singapore, DGIST in South Korea as a research fellow from 2013 ~ 2019.  
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about Academic works and achievements can be found in [google scholar](https://scholar.google.com/citations?user=3UHrJ7oAAAAJ&hl=en). Also, [COINFLIP](https://coinflipscomputing.org/) and [THz spintronics with AFM (MURI)]( https://sciences.ucf.edu/physics/afmspin) might also be helpful.
