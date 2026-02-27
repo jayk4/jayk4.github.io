@@ -24,7 +24,7 @@ main:
   - title: "Potos"
     url: /portfolio/
   
-    - title: "CV"
+  - title: "CV"
     url: /cv/
 
   - title: "Talks"
