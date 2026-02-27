@@ -7,5 +7,5 @@ tags:
   - category1
   - category2
 ---
-Welcom to Jaesuk's git webpage. This site will display updated Jaesuk's academic profile and resesarch, even though some article will be post for paper, article etc.
+Welcom to Jaesuk's git webpage. This site will focus to display updated my own academic profile, research, and news from ex-affilidated labs, even though specific public anouncements for online spintronics seminar, conferences schedule, and published articles will post redirected and tag here.
 <!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.  -->
