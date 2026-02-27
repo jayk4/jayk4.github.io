@@ -13,7 +13,7 @@ main:
     url: /year-archive/
 
   - title: "Research"
-    url: /markdown/
+    url: /cv/
 
   - title: "Publications"
     url: /publications/   
@@ -27,10 +27,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "CV"
-    url: /cv/
-    
   # - title: "CV"
   #   url: /cv-json/
     
-
+  - title: "Guide"
+    url: /markdown/
