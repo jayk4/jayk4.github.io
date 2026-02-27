@@ -13,7 +13,7 @@ main:
     url: /year-archive/
 
   - title: "Research"
-    url: /cv/
+    url: /Research/
 
   - title: "Publications"
     url: /publications/   
@@ -23,6 +23,9 @@ main:
 
   - title: "Potos"
     url: /portfolio/
+  
+    - title: "CV"
+    url: /cv/
 
   - title: "Talks"
     url: /talks/
