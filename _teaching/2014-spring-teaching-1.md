@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Part-time Lecture / Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Korea University, Physics"
+date: Feb. 1999 - Sept. 2003
+location: "Seoul, South Korea"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Fundamental Physics Lab course & administration duty.
+Fundamental Physics Lab & Proctored exams.
 
 Heading 1
 ======
