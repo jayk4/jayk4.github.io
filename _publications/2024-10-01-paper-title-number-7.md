@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-10-01-paper-title-number-7
 excerpt: 'This paper is review paper.'
-date: 2025-08-01
+date: 2024-08-01
 venue: 'APL materials'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: ' https://doi.org/10.1063/5.0184774' # 'https://academicpages.github.io/files/paper3.pdf'
