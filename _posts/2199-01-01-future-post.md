@@ -1,6 +1,6 @@
 ---
-title: 'News Blog Post'
-date: 2026-02-26
+title: 'News Post'
+date: 2026-02-27
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
