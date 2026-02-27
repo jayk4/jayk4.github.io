@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, The State University of New York, 2013
+* M.Sc. in Physics, Korea University, 2001
+* B.Sc. in Physics, Incheon National University, 1999
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov. 2021 - Oct. 2024: Postdoctoral Research Associate
+  * ECE, University of Texas at Austin & Micronics Research Center (MER) 
+  * PI: Prof. Jean Anne Incorvia
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2019 - Nov. 2021: Postdoctral Research Associate
+  * University of Central Florida
+  * PI: Prof. Enrique del Barco
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Jan. 2017 - Oct. 2019: Research Fellow
+  * DGIST
+  * PI: Prof. Chun-yeol You
+
+* Jul. 2014 - Jan. 2017: Research Fellow
+  * Nanyang Technological University
+  * PI: Prof. Wen-Shang Lew
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fab. process: Electron Beam Lithography, Photo Lithography, Ion milling, Reactive Ion Etch, Wet Etch
+* Materials: Molecular Beam Epitaxy, Sputtering, e-beam/thermal evaporation, PECVD
+* Measurement: Spin transfer torque/orbit torques, Tunneling Magneto Resistance (TMR), Ferro/Anti-ferromagnetic resonance (GHz~THz resonance, spin pumping, EPR), Coplanar Waveguide, Hall measurement, IV electrical test, DC & RF measurement, Magneto-optical Kerr effect, Atomic/Magnetic Force Microscopy, Vibrating Sample Magnetometry, Scanning Electron Microscopy
+* Programming: Python, Labview, Matlab/Mathematica, Cadence Virtuoso Verilog A, MuMax3, OOMMF, Comsol
 
 Publications
 ======
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Up to now, guiding and mentoring in to more than 50 undergraduate and graduate students in different conturies
