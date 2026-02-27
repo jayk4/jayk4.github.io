@@ -3,7 +3,7 @@ title: "Random Bitstream Generation using Voltage-Controlled Magnetic Anisotropy
 collection: publications
 category: manuscripts
 permalink: /publication/2022-10-01-paper-title-number-12
-excerpt: 'This paper is with Gyan at UCF. Building setup collaboration with company'
+excerpt: 'This paper is with Sam at UT Austin. Sam is now in NIST.'
 date: 2022-10-01
 venue: 'IEEE Journal on Exploratory Solid-State Computational Devices and Circuit (JXCDC)'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
