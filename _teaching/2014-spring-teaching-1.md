@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Korea University, Physics"
-date: Feb. 1999 - Sept. 2003
+date: 1999-01-01
 location: "Seoul, South Korea"
 ---
-Fundamental Physics Lab course & administration duty.
-Fundamental Physics Lab & Proctored exams.
+* Feb. 1999 - Aug. 2001: Fundamental Physics Lab course & administration duty.
+* Aug. 2001 - Sept. 2003: Fundamental Physics Lab & Proctored exams.
 
 Heading 1
 ======
