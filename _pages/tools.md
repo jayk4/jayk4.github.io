@@ -9,17 +9,13 @@ author_profile: true
 
 {% include base_path %}
 
-Magnetic Tunnel Junction (MTJ)
-======
-* Structure, random telegraph noise
-
-THz antiferromagnetic resonance (AFMR)
-======
-* Structure, random telegraph noise
-
-Skills
+Magnetic Tunnel Junction (MTJ) model
 ------
-* Fab. process: Electron Beam Lithography, Photo Lithography, Ion milling, Reactive Ion Etch, Wet Etch
-* Materials: Molecular Beam Epitaxy, Sputtering, e-beam/thermal evaporation, PECVD
-* Measurement: Spin transfer torque/orbit torques, Tunneling Magneto Resistance (TMR), Ferro/Anti-ferromagnetic resonance (GHz~THz resonance, spin pumping, EPR), Coplanar Waveguide, Hall measurement, IV electrical test, DC & RF measurement, Magneto-optical Kerr effect, Atomic/Magnetic Force Microscopy, Vibrating Sample Magnetometry, Scanning Electron Microscopy
-* Programming: Python, Labview, Matlab/Mathematica, Cadence Virtuoso Verilog A, MuMax3, OOMMF, Comsol
+* MTJ coded by python.
+* MTJ coded by Matlab.
+* MTJ coded by Cadence Virtuoso Verilog A. Full CMOS memory circuit such SRAM (6T cell), DRAM (1T1C cell) with peripheral circuit. This will simulate the manage data access, amplification, refreshig for DRAM, timing for memory array, and so on. Peripheral circuit components are Row/Column Decoders, Word/Read Line (WL/RL) line, Multiplexers, Sense Amplifiers, Pre-charge circuitry.
+
+MnF2 THz antiferromagnetic resonance (AFMR) model
+------
+* Antiferromagnetic simulation coded by Matlab
+* This demonstrats spin dynamics with flipflop and THz magnetic resonances associate with two modes.
