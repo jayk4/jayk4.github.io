@@ -3,7 +3,7 @@ title: "Cyclic resistance change in perpendicular magnetized Co/Ni nanowire by c
 collection: publications
 category: manuscripts
 permalink: /publication/2017-06-01-paper-title-number-21
-excerpt: 'This paper was publised at NTU, Singapore. Siwha is now in company, china'
+excerpt: 'This paper was publised at NTU, Singapore.'
 date: 2017-06-01
 venue: 'Current Appl. Phys.'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
