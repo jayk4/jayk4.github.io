@@ -22,6 +22,8 @@ THz antiferromagnetic resonance (AFMR)
 * THz is available to detect with insulating AFM, MnF2, CrCl2, and so on.
 * Antiferromagnetic resonance has demonstrated by theory & experiment.
 
+<img src="/images/afm.png" width=300>
+
 Racetrack memory & neuromorphic circuit by domain wall (DW)
 ------
 * DW motion in nano/micro-wires, so called Racetrack memory for real application.
