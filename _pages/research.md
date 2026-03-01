@@ -23,7 +23,7 @@ THz antiferromagnetic resonance (AFMR)
 * Antiferromagnetic resonance has demonstrated by theory & experiment.
 
 <img src="/images/afm.png" width=300>
-<video autoplay><source src="/images/MnF2.mp4" type="video/mp4"></video>
+<video loop width="300"><source src="/images/MnF2.mp4" type="video/mp4"></video>
 
 Racetrack memory & neuromorphic circuit by domain wall (DW)
 ------
