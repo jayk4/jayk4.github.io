@@ -17,8 +17,6 @@ As of, the MTJ device widely uses for the applications, automobile industry, spa
 
 <img src="/images/mtj.png" width=300>
 
-![](/images/mtj.png "MTJ nano-pillar and layers")
-
 THz antiferromagnetic resonance (AFMR)
 ------
 * THz is available to detect with insulating AFM, MnF2, CrCl2, and so on.
