@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Up to now, guiding and mentoring in to more than 50 undergraduate and graduate students in different conturies
+* Up to now, guiding and mentoring in to more than 10 graduate Ph.D candidates and few undergraduate students in different conturies
