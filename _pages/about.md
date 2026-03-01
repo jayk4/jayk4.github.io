@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Jaesuk Kwon is previously Postdoctoral researcher in Electical and Computer Engineering at The University of Texas at Austin. Most focused research is to develope an commercial ready nano-device with emerging technology. Recent research efforts has emphasized on the machine learning (neural network) tests associated with matrix-vector multiplication and statistical distribution of probablity bits created by magnetic tunnel junction device. Also, deeply looking into the possible usage for spintronics device on neuromorphic computing.   
+Jaesuk Kwon was previously Postdoctoral researcher in Electical and Computer Engineering at the University of Texas at Austin, and affiliated with Microelectronics Research Center (Pickle campus). Most focused research is/was to develope an commercial ready nano-device with emerging technology, spintronics. Recent research efforts has emphasized on the machine learning (neural network) tests associated with matrix-vector multiplication and statistical distribution of probablity bits created by magnetic tunnel junction device. Also, deeply looking into the possible usage for spintronics device on neuromorphic computing.   
 
- You can follow [INClab](https://utinclab.com/) right now, who we are, what we are doing, what are the achievements, with no worry!
+ You can follow [INClab](https://utinclab.com/) right now, who we are, what we are doing, what the achievements are about, with no worry!
 
 BIO
 ------
