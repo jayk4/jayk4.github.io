@@ -15,7 +15,9 @@ Magnetic Tunnel Junction (MTJ)
 Recent, research group developted a new multilayered ferromagnetic structure that can improve the MTJ characteristic switching/relaxation time in ns regime, in structure were successfully fabricated down to 2 nm or less than 1nm in diameter.
 As of, the MTJ device widely uses for the applications, automobile industry, space to IoT, and attemp to deploy in AI technology.
 
-![alt text](/images/mtj.png "MTJ nano-pillar and layers"){width=50%}
+<img src="imgages/mtj.png" width="200" >
+
+![alt text](/images/mtj.png "MTJ nano-pillar and layers"){ width="300" }
 
 THz antiferromagnetic resonance (AFMR)
 ------
@@ -26,10 +28,3 @@ Racetrack memory & neuromorphic circuit by domain wall (DW)
 ------
 * DW motion in nano/micro-wires, so called Racetrack memory for real application.
 * Magnetic domains in multi-layer, e.g. RKKY structure.
-
-Skills
-------
-* Fab. process: Electron Beam Lithography, Photo Lithography, Ion milling, Reactive Ion Etch, Wet Etch
-* Materials: Molecular Beam Epitaxy, Sputtering, e-beam/thermal evaporation, PECVD
-* Measurement: Spin transfer torque/orbit torques, Tunneling Magneto Resistance (TMR), Ferro/Anti-ferromagnetic resonance (GHz~THz resonance, spin pumping, EPR), Coplanar Waveguide, Hall measurement, IV electrical test, DC & RF measurement, Magneto-optical Kerr effect, Atomic/Magnetic Force Microscopy, Vibrating Sample Magnetometry, Scanning Electron Microscopy
-* Programming: Python, Labview, Matlab/Mathematica, Cadence Virtuoso Verilog A, MuMax3, OOMMF, Comsol
