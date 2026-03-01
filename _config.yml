@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Jaesuk Kwon"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "ex-postdoc UTA <br> Physics Ph.D."
-  location         : "As of Texas"
-  employer         : "Last... ECE, UT Austin"
+  bio              : "ex-postdoc@UTAustin <br> Physics Ph.D."
+  location         : "As of now, TX"
+  employer         : "Last.. ECE@UTAustin"
   uri              : # URL
   email            : "jaykwon4[at]gmail.com" 
 
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "jayk4" # Username
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "Jaesuk Kwon" # Username
   mastodon         : # URL
