@@ -19,11 +19,14 @@ As of, the MTJ device widely uses for the applications, automobile industry, spa
 
 THz antiferromagnetic resonance (AFMR)
 ------
-* THz is available to detect with insulating AFM, MnF2, CrCl2, and so on.
+* There is the THz gap in the electromagnetic spectrum. Due to a lack of research operation, there are many candidates lying in the THz or sub-THz, which potentially lead to new tech. for the generation, detection, and processing of THz signals. This will drive transformation into much faster electronics, currently existing GHz technology.
+* THz is available to detect with Antiferromagnetic (AFM) insulator. The research is processed not only detection of THz resonance, but also investigation for Spin-charge interconversion. Magnon-transport. Research is on-going in novel AFM materials handling and characterization.
 * Antiferromagnetic resonance has demonstrated by theory & experiment.
 <br><img src="/images/afm.png" width=300><video muted autoplay loop width="300"><source src="/images/MnF2.mp4" type="video/mp4"></video>
 
 Racetrack memory & neuromorphic circuit by domain wall (DW)
 ------
-* DW motion in nano/micro-wires, so called Racetrack memory for real application.
+* Computing record media was crucial part of mordern computers and CMOS transistors has replaced the position of magnetic storage media progressively. Besides, the magnetic hard drive has continuously evolved so far, HAMR has introduced in market as a product, which has extreamly large capacity. In research, controled Domain Wall (DW) motion in nano/micro-wires had introduced a possible memory application in in-memory computing, a decade ago. It is so called 'Racetrack memory' that was launced in the national lab. DW is a boundary between opposite magnetic domains. However, domain wall motion is a necessary more to understand and handle in specific structure that can be adaptable and embeded in real CMOS based computing chip. 
+The magnetic domains are still attractive research topic in natural science and engineering.  
 * Magnetic domains in multi-layer, e.g. RKKY structure.
+* Skirmion dynamics.
