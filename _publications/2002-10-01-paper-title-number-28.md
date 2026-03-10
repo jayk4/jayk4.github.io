@@ -3,7 +3,7 @@ title: "Growth of polycrystalline Cd0.8Zn0.2Te thick film for X-ray detectors"
 collection: publications
 category: manuscripts
 permalink: /publication/2002-10-01-paper-title-number-28
-excerpt: 'This paper is about old. The work had done in Korea University, 2002.'
+excerpt: 'P1: This paper is about old. The work had done in Korea University, 2002.'
 date: 2002-10-01
 venue: 'Phys. Stat. Sol. (b)'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
