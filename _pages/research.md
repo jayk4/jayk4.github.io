@@ -9,6 +9,10 @@ author_profile: true
 
 {% include base_path %}
 
+Research Interest
+------
+* Nanomagnetism and spintronics, Non-volatile memory and logic device, Magnetic Tunnel Junction, Magnetic resonance and spin waves, emerging nanoelectronics, p-bit and machine learning. Memory design (SRAM/ DRAM) and FPGA circuit.
+
 Magnetic Tunnel Junction (MTJ)
 ------
 * Non-volatile STT-MRAM has been developed to replace flash memory with respect to long data storage capability (more than 10 years), and fast switching and data writing capability (less than 5ns), which is governed by magnetization dynamics. Advanced nano-technology (<5nm, even at the future's Angstrom process) shows a possibility to replace SRAM (fast data writing memory, 6T cell) and high speed DRAM (compact 1T1C cell) with spintronics non-volatile memory, MRAM (1T1R cell). Also, this device has been investigated and developted on the purpose of drastically reducing energy consumption, comparable to the CMOS intergrated circuits. The performance of data write/retention determined by MTJs - a core component of MRAM - that is able to be modulated depending on applications.
