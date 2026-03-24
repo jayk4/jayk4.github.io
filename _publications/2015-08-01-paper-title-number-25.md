@@ -3,7 +3,7 @@ title: "Low field domain wall dynamics in artificial spin-ice basis structure"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-08-01-paper-title-number-25
-excerpt: 'This paper was publised at SUNY at Buffalo.'
+excerpt: 'This paper was publised at Singapore.'
 date: 2015-08-01
 venue: 'J. Appl. Phys.'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
