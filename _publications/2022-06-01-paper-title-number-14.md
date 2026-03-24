@@ -1,9 +1,9 @@
 ---
-title: “AIBayesian Neural Networks Using Magnetic Tunnel Junction-Based Probabilistic In-Memory Computing"
+title: “AI-Bayesian Neural Networks Using Magnetic Tunnel Junction-Based Probabilistic In-Memory Computing"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-06-01-paper-title-number-14
-excerpt: 'This paper is with Sam at UT Austin. Sam is now in NIST.'
+excerpt: 'This paper worked with Sam at UT Austin and Sandia. Sam is in NIST.'
 date: 2022-06-01
 venue: 'Front. in Nanotechnol.'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
