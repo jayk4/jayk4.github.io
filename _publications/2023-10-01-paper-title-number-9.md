@@ -3,7 +3,7 @@ title: "Low voltage local strain enhanced switching of magnetic tunnel junctions
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-01-paper-title-number-9
-excerpt: 'This paper is with Suyo. Collaboration with company'
+excerpt: 'This paper worked with Suyo and collaboration with company. Suyo is in AMAT'
 date: 2023-10-01
 venue: 'arXiv preprint'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
