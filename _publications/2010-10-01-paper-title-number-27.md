@@ -3,7 +3,7 @@ title: "Molecular beam epitaxy growth and characterization of selfassembled MnAs
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-27
-excerpt: 'This paper is about old. The work is done in 2010.'
+excerpt: 'This paper is old. The work was done in 2010. Shri is in intel'
 date: 2010-10-01
 venue: 'J. of Vac. Sci. & Tech. B'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
