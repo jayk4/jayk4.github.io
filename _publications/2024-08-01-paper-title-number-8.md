@@ -3,7 +3,7 @@ title: "Magnetic Tunnel Junction Random Number Generators Applied to Dynamically
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-01-paper-title-number-8
-excerpt: 'This paper is simulation with Andrew. Collaboration with NYU, UT, Sandia'
+excerpt: 'This paper worked with Andrew. Collaboration with NYU, UT, Sandia'
 date: 2024-08-01
 venue: 'IOP Nanotechnology'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
