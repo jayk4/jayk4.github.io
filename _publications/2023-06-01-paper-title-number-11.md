@@ -3,7 +3,7 @@ title: "A 220GHz-1.1THz continuous frequency and polarization tunable high frequ
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-01-paper-title-number-11
-excerpt: 'This paper is with Gyan at UCF. Building setup collaboration with company'
+excerpt: 'This paper worked with Gyan at UCF and companies. Gyan is in intel'
 date: 2023-06-01
 venue: ' Rev. Sci. Instrum.'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
