@@ -19,7 +19,7 @@ Magnetic Tunnel Junction (MTJ)
 Recent, research group developted a new multilayered ferromagnetic structure that can improve the MTJ characteristic switching/relaxation time in ns regime, in structure were successfully fabricated down to 2 nm or less than 1nm in diameter.
 As of, the MTJ device widely uses for the applications, automobile industry, space to IoT, and attemp to deploy in AI technology. Especially, MTJ device paid attention into new application for the probability bit (p-bit) computing hardware, which produce million random bits in ns regim, so called random telegraph noise (RTN) utilizing machine learning algoritm.
 
-<img src="/images/mtj.png" width=300>
+<img src="/images/mtj.png" width=300><img src="/images/cadence.png" width=300>
 
 THz antiferromagnetic resonance (AFMR)
 ------
