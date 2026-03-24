@@ -3,7 +3,7 @@ title: "Domain Wall-Magnetic Tunnel Junction Analog Content Addressable Memory U
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-01-paper-title-number-10
-excerpt: 'This paper is with Harrison. Collaboration with company'
+excerpt: 'This paper is with Harrison and collaboration with company'
 date: 2023-08-01
 venue: 'IEEE Trans. Nanotechnol.'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
