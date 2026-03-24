@@ -3,7 +3,7 @@ title: "Domain Wall Spintronics Artificial Neurons Showing Integrateand-Fire Beh
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-01-paper-title-number-6
-excerpt: 'This paper is about recent. The next will be comming soon.'
+excerpt: 'This paper is most recent. Cui is in micron.'
 date: 2025-08-01
 venue: 'Nano Letters'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
