@@ -34,4 +34,4 @@ Racetrack memory & neuromorphic circuit by domain wall (DW)
 The magnetic domains are still attractive research topic in natural science and engineering.  
 * Magnetic domains in multi-layer, e.g. RKKY structure.
 * Skirmion dynamics.
-<img src="/images/dw1.gif" width=300><br><img src="/images/sky2.gif" width=800>
+<img src="/images/dw1.gif" width=300><img src="/images/sky2.gif" width=800>
